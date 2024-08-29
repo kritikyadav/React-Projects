@@ -1,0 +1,21 @@
+.AddFoodButton {
+    padding: 9px 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-left: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border-radius: 0 4px 4px 0;
+}
+
+.InputFood {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+    width: 74%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
