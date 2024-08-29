@@ -1,0 +1,19 @@
+input {
+  width: 100%;
+}
+
+.kg-button {
+  min-width: 80px;
+  float: left;
+}
+
+.kg-row {
+  margin: 10px 5px;
+}
+
+.todo-container{
+  /* width: 632px;
+  height: 256px; */
+  background-color: bisque;
+}
+
