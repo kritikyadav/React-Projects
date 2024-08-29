@@ -33,14 +33,14 @@ Once the application is running, you can:
 Here is a brief overview of the project's folder structure:
 
 - public/: Contains the index.html file and other static assets.
-- - index.html: The HTML entry point of the application.
+  - index.html: The HTML entry point of the application.
 - src/: Contains React components and styles.
-- - components/: Contains React components.
-- - - TodoList.js: Component for displaying the list of todos.
-- - - TodoItem.js: Component for a single todo item.
-- - - TodoInput.js: Component for the input field and "Add" button.
+  - components/: Contains React components.
+    - TodoList.js: Component for displaying the list of todos.
+    - TodoItem.js: Component for a single todo item.
+    - TodoInput.js: Component for the input field and "Add" button.
 - styles/: Contains CSS files.
-- - App.css: Main styling for the application.
+  - App.css: Main styling for the application.
 - App.js: Main application component.
 - index.js: Entry point of the React application.
 
