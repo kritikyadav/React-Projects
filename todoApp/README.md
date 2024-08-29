@@ -20,45 +20,44 @@ A simple and interactive calculator built with React.js. This calculator support
 To get started with the React Calculator, follow these steps:
 
 1. **Clone the repository**
-
    git clone https://github.com/kritikyadav/calculator.git
 
-Navigate to the project directory
-cd react-calculator
+2. **Navigate to the project directory**
+   cd react-calculator
 
-Install dependencies
-npm install
+3. **Install dependencies**
+   npm install
 
-Start the development server
-npm start
+4. **Start the development server**
+   npm start
 
-This will open the calculator in your default browser at http://localhost:3000.
+**This will open the calculator in your default browser at http://localhost:3000.**
 
 ## Usage
 Once the application is running, you can:
 
-Click on the calculator buttons to perform arithmetic operations.
-Use the C button to clear the current input or AC to reset the entire calculation.
-Press = to calculate the result of the entered expression.
-Use your keyboard's numeric keys and arithmetic operators for quick calculations.
+- Click on the calculator buttons to perform arithmetic operations.
+- Use the C button to clear the current input or AC to reset the entire calculation.
+- Press = to calculate the result of the entered expression.
+- Use your keyboard's numeric keys and arithmetic operators for quick calculations.
 
 ## Folder Structure
-public/: Contains the index.html file and other static assets.
-src/: Contains React components and styles.
-components/: React components such as Calculator, Button, Display, etc.
-App.js: Main application component.
-index.js: Entry point of the application.
-styles/: CSS files for styling the components.
+- public/: Contains the index.html file and other static assets.
+- src/: Contains React components and styles.
+- components/: React components such as Calculator, Button, Display, etc.
+- App.js: Main application component.
+- index.js: Entry point of the application.
+- styles/: CSS files for styling the components.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request describing your changes.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes and commit them (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Open a pull request describing your changes.
 
 ## Acknowledgments
-React.js Documentation - For providing excellent documentation and guidance.
-Create React App - For setting up the project environment.
+- React.js Documentation - For providing excellent documentation and guidance.
+- Create React App - For setting up the project environment.
 
