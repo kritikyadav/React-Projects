@@ -1,0 +1,22 @@
+.button {
+    margin: 2px;
+    width: 45px;
+    height: 45px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+/* Hover state */
+.button:hover {
+    background-color: #a8ffe9;
+    transform: scale(1.05);
+    /* Darker green */
+}
+
+/* Active state */
+.button:active {
+    background-color: #7fff83;
+    /* Even darker green */
+    transform: scale(0.95);
+    /* Slightly smaller scale */
+}
